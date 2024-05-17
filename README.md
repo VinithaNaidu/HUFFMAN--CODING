@@ -26,7 +26,7 @@ REGISTER NUMBER: 212222230175
 ```
 # Get the input String
 ```python
-string = 'DIGITAL IMAGE'
+string = 'VINITHA NAIDU'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -81,6 +81,7 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![dipt1](https://github.com/deepikasrinivasans/HUFFMAN--CODING/assets/119393935/e4a8df32-62a8-4d73-8b9c-b222a65cd909)
+![image](https://github.com/VinithaNaidu/HUFFMAN--CODING/assets/121166004/836135aa-1d35-46d0-803d-66f1c858dea5)
+
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
